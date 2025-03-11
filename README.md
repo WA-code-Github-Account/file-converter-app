@@ -1,8 +1,3 @@
-Yeh **README.md** file aapke **File Converter Project** ke liye hai. Isme **installation steps, usage, aur features** diye gaye hain. 🚀  
-
-Aap is file ko apne **project folder** me save karein aur GitHub pe upload kar sakte hain.  
-
----
 
 ### 📜 **README.md for File Converter Project**
 ```markdown
